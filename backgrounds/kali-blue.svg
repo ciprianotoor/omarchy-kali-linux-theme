@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
+  <defs>
+    <radialGradient id="g" cx="76%" cy="42%" r="78%"><stop offset="0" stop-color="#173b75"/><stop offset=".44" stop-color="#0d1d38"/><stop offset="1" stop-color="#05080d"/></radialGradient>
+    <pattern id="p" width="80" height="80" patternUnits="userSpaceOnUse" patternTransform="rotate(22)"><path d="M0 40H80M40 0V80" stroke="#367bf0" stroke-opacity=".07" stroke-width="2"/></pattern>
+  </defs>
+  <rect width="3840" height="2160" fill="url(#g)"/><rect width="3840" height="2160" fill="url(#p)"/>
+  <circle cx="3010" cy="920" r="620" fill="none" stroke="#367bf0" stroke-opacity=".15" stroke-width="3"/>
+  <circle cx="3010" cy="920" r="455" fill="none" stroke="#5aa2ff" stroke-opacity=".12" stroke-width="2"/>
+  <path d="M0 1780C700 1540 1120 2010 1830 1770S3000 1420 3840 1720" fill="none" stroke="#367bf0" stroke-opacity=".14" stroke-width="7"/>
+  <text x="220" y="1910" fill="#d9e7ff" fill-opacity=".82" font-family="monospace" font-size="96" letter-spacing="18">KALI LINUX</text>
+  <text x="230" y="2010" fill="#5aa2ff" fill-opacity=".65" font-family="monospace" font-size="30" letter-spacing="8">THE QUIETER YOU BECOME, THE MORE YOU ARE ABLE TO HEAR</text>
+</svg>
